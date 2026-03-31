@@ -1,0 +1,206 @@
+{
+    "$schema": "./plugin_repository_schema.json",
+    "plugins": [
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.8",
+            "published_at": "2026-03-04T14:36:24Z",
+            "hash": "sha256:4d07d80314b14cd1b4c8b1ea3a238aee53e7e85e0816ff45db7776419c2fd269",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.8/form-plugin-3.6.8.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.7",
+            "published_at": "2026-02-25T10:16:45Z",
+            "hash": "sha256:89c1606e3fafd6023afa92aa5f992fae27208c189060cea315086e21b94c6297",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.7/form-plugin-3.6.7.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.6",
+            "published_at": "2026-02-17T10:07:43Z",
+            "hash": "sha256:0210a5ae57f53e2d062490ef69940edfb742d719a697abc54b17c02d9164fff8",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.6/form-plugin-3.6.6.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.5",
+            "published_at": "2026-02-11T12:13:33Z",
+            "hash": "sha256:6c3beb2267b71ea75ce3c3c9f9f36c457a0928d63dc194ea2c1e9a89d8433d46",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.5/form-plugin-3.6.5.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.4",
+            "published_at": "2026-01-29T13:10:55Z",
+            "hash": "sha256:cb6812d414f2bd9097f3f6578be8ddc60aa976252075e1c38538a83b660ab618",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.4/form-plugin-3.6.4.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.3",
+            "published_at": "2026-01-29T12:55:56Z",
+            "hash": "sha256:3e73ebe52897be087df98a65c02997f260d8c14416ce1c929eb70d38845567be",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.3/form-plugin-3.6.3.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.2",
+            "published_at": "2026-01-29T10:58:03Z",
+            "hash": "sha256:d74a1053b91fdaa62c0113a8aed36032dd6ef894140c7a0c4f91a5eef4ed0e4e",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.2/form-plugin-3.6.2.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.1",
+            "published_at": "2026-01-22T11:41:44Z",
+            "description": "Changelog: Fix: fix a problem where the plugin assumed the language \"en\" to always be available, even when it wasn't defined in the cms settings",
+            "hash": "sha256:cf269ef4ddf81f8a8c41e345ba08f6ab4bea15f98dc6cd6121f667ab5cabf005",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.1/form-plugin-3.6.1.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.6.0",
+            "published_at": "2026-01-13T14:07:39Z",
+            "description": "Changelog: Feature: use the languages defined in neleto settings for localized input",
+            "hash": "sha256:e5bd455ae958a5cea4fc9486ac1ffe0a28d5fcdd39ecacd0bffa0dd4f43358a2",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.0/form-plugin-3.6.0.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.5.0",
+            "published_at": "2026-01-13T09:53:56Z",
+            "description": "Changelog: Feature: Don't respond with 401 unauthorized on captcha error if a redirect is configured, but set a query parameter with an error",
+            "hash": "sha256:e45ffdff191b37c4fe25cdf96e0078074f684ea98d9cef95c7e51b3d877dabe7",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.5.0/form-plugin-3.5.0.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.4.0",
+            "published_at": "2026-01-13T09:27:20Z",
+            "hash": "sha256:61ac3132085ad6fbc28a71b14c5a58ab719d309eaf6eed65a052e542ac736f09",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.3.2/form-plugin-3.3.2.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.3.2",
+            "published_at": "2026-01-13T08:25:28Z",
+            "hash": "sha256:f54a7b2d98bcc4054726adc2f6255f90f77c396c1657182cd6094f720035560c",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.3.2/form-plugin-3.3.2.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.3.1",
+            "published_at": "2026-01-12T11:10:44Z",
+            "hash": "sha256:646424272a79692d7ae7aff64b6e37f1674635f12f4db011e0244e2ea11112c6",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.3.1/form-plugin-3.3.1.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.3.0",
+            "published_at": "2025-12-16T14:51:39Z",
+            "hash": "sha256:e46b63cb0148a93a9576b3f7a651d6f57e6a37bbd69b5233c34b0b926ad87fe6",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.3.0/form-plugin-3.3.0.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.2.0",
+            "published_at": "2025-10-20T14:57:51Z",
+            "hash": "sha256:2814498b3a1f21afc7a1166e4d35e488c9972ab819755262a1e848d9e1bd61cf",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.2.0/form-plugin-3.2.0.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.7",
+            "published_at": "2025-10-16T09:22:31Z",
+            "hash": "sha256:6e812facbc9c24024e5ac4dd1596df970f2d95946e15a37afe14cf7045cfaafd",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.7/form-plugin-3.1.7.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.6",
+            "published_at": "2025-10-16T07:15:45Z",
+            "hash": "sha256:b368d8a2d8d0940a4ef4e30a383a42bda2ad0387ee5b198c44aefc5dec6ff6cd",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.6/form-plugin-3.1.6.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.5",
+            "published_at": "2025-10-15T11:39:19Z",
+            "hash": "sha256:bcc55ff71e66c90148c215a18fd1a8c689ba23159764965ebb29012801e165ea",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.5/form-plugin-3.1.5.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.4",
+            "published_at": "2025-10-10T14:51:57Z",
+            "hash": "sha256:468849c65ce3cd84137532392964e30f916de7d613aead77ced3221ea2d935cc",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.4/form-plugin-3.1.4.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.3",
+            "published_at": "2025-10-10T14:43:53Z",
+            "hash": "sha256:1d25e75c6eb10ab3b8b0c5d13ece93448936a2a3361970c77101d4b3beeb3415",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.3/form-plugin-3.1.3.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.2",
+            "published_at": "2025-10-10T14:40:12Z",
+            "hash": "sha256:7a4ff02fab66dfd0993b985ad56b9b308c1e5cadcd6c72ee7c245ab3cd5377db",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.2/form-plugin-3.1.2.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.1",
+            "description": "still broken, but not more than 3.0.x",
+            "published_at": "2025-10-10T14:22:42Z",
+            "hash": "sha256:d791afdaa86376fb242ca63e8e8354e9da398e10c0866eee8729bd3f86313408",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.1/form-plugin-3.1.1.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.1.0",
+            "description": "Broken",
+            "published_at": "2025-10-10T13:56:58Z",
+            "hash": "sha256:7e2ca44de305ae43974c7dd3a38c41ec47d8bb51ae9b497871a6815d2fd123dc",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.1.0/form-plugin-3.1.0.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.0.5",
+            "published_at": "2025-08-27T11:34:54Z",
+            "hash": "sha256:15c1597622a9ab44d0ede8dc79457f2f2e675d93b0cc73613777847cd5671c65",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.5/form-plugin-3.0.5.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.0.4",
+            "published_at": "2025-07-30T13:53:40Z",
+            "hash": "sha256:37a122298b5eb686127c16f8ee7f6e568d45763bc6bc8b30d67c419183a2c19c",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.4/form-plugin-3.0.4.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.0.3",
+            "published_at": "2025-07-30T11:52:49Z",
+            "hash": "sha256:6ad0d684e36bdf698d48271b075cea9fee1bbceca0f8615733f94abfba7ad037",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.3/form-plugin-3.0.3.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.0.2",
+            "published_at": "2025-06-13T11:34:35Z",
+            "hash": "sha256:576cd21a5e565edd2fa6a28cc11739324c06002ff539867560c642d44027ecfe",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.2/form-plugin-3.0.2.tar.gz"
+        },
+        {
+            "plugin_name": "form-plugin",
+            "version": "3.0.0",
+            "published_at": "2025-06-03T07:18:57Z",
+            "hash": "sha256:ea28ae8abb353de9d71dee3082a03e053997e1f56319bba2d0355975df8326fe",
+            "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.0/form-plugin-3.0.0.tar.gz"
+        }
+    ]
+}
