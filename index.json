@@ -201,6 +201,27 @@
             "published_at": "2025-06-03T07:18:57Z",
             "hash": "sha256:ea28ae8abb353de9d71dee3082a03e053997e1f56319bba2d0355975df8326fe",
             "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.0.0/form-plugin-3.0.0.tar.gz"
+        },
+        {
+            "plugin_name": "cookiebanner-plugin",
+            "version": "2.0.2",
+            "published_at": "2025-10-09T14:05:26Z",
+            "hash": "sha256:4d17e78d5126a3dda8a3ac64f31a050f62e0885591d3699e5058bd31cf40e86f",
+            "url": "https://github.com/Triple-A-Software/cookiebanner-plugin/releases/download/2.0.2/cookie-banner-2.0.2.tar.gz"
+        },
+        {
+            "plugin_name": "cookiebanner-plugin",
+            "version": "2.0.1",
+            "published_at": "2025-10-09T13:51:16Z",
+            "hash": "sha256:cec24930bfd4ea7eb1435de44bc4b6260db8feaa86f8edef61f7bc74adcda56e",
+            "url": "https://github.com/Triple-A-Software/cookiebanner-plugin/releases/download/2.0.1/cookie-banner-2.0.1.tar.gz"
+        },
+        {
+            "plugin_name": "cookiebanner-plugin",
+            "version": "2.0.0",
+            "published_at": "2025-06-03T07:20:39Z",
+            "hash": "sha256:0ee44588dcc6e682207a51513610e2137a25d190e151777f34aacd5aea8c75c0",
+            "url": "https://github.com/Triple-A-Software/cookiebanner-plugin/releases/download/2.0.0/cookie-banner-2.0.0.tar.gz"
         }
     ]
 }
