@@ -3,6 +3,13 @@
   "plugins": [
     {
       "plugin_name": "form-plugin",
+      "version": "3.6.10",
+      "published_at": "2026-07-28T10:28:00Z",
+      "hash": "sha256:c11b3d0d8286f64c5e8a943928769fa46153d1a1edd6f2b86607bb30e97cf2c0",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.10/form-plugin-3.6.10.tar.gz"
+    },
+    {
+      "plugin_name": "form-plugin",
       "version": "3.6.9",
       "published_at": "2026-07-10T13:28:00Z",
       "hash": "sha256:1deb5e105fb13aee2fc6ade30f1b2a6d86bebefb86cc6eea85583c814d680bb0",
