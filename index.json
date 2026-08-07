@@ -2,6 +2,13 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
     {
+      "plugin_name": "site-health",
+      "version": "1.0.1",
+      "published_at": "2026-08-07T22:31:46Z",
+      "hash": "sha256:bec24e050798d229b94914027011f9411e02bc0adc51f9551ee501b7738e0f89",
+      "url": "https://github.com/Triple-A-Software/sitehealth-plugin/releases/download/1.0.1/site-health-1.0.1.tar.gz"
+    },
+    {
       "plugin_name": "form-plugin",
       "version": "3.6.10",
       "published_at": "2026-07-28T10:28:00Z",
