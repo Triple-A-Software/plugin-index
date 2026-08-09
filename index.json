@@ -2,6 +2,14 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
     {
+      "plugin_name": "site-search",
+      "version": "1.2.0",
+      "url": "https://github.com/Triple-A-Software/sitesearch-plugin/releases/download/1.2.0/site-search-1.2.0.tar.gz",
+      "hash": "sha256:41a3220b1eaa78c02389ac80b9730dcaf8c5ae8d3dcfab4fa8ec8561469a993d",
+      "description": "Full-text site search for Neleto: page + body indexing, results page, autocomplete, typo tolerance, weighting & synonyms.",
+      "published_at": "2026-08-09T11:05:55Z"
+    },
+    {
       "plugin_name": "media-gallery",
       "version": "1.0.3",
       "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.3/media-gallery-1.0.3-1.tar.gz",
