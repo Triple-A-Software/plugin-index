@@ -2,6 +2,14 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
     {
+      "plugin_name": "blog-comments",
+      "version": "1.2.0",
+      "url": "https://github.com/Triple-A-Software/blogcomment-plugin/releases/download/1.2.0/blog-comments-1.2.0.tar.gz",
+      "hash": "sha256:fd8ac27093fdb304f7d8a5e0d5978d761198ded0c4e92847a832884d670c57f3",
+      "description": "Blog comments with moderation, threaded replies, reactions, email notifications, Akismet and GDPR erasure.",
+      "published_at": "2026-08-09T13:31:38Z"
+    },
+    {
       "plugin_name": "site-search",
       "version": "1.2.0",
       "url": "https://github.com/Triple-A-Software/sitesearch-plugin/releases/download/1.2.0/site-search-1.2.0.tar.gz",
