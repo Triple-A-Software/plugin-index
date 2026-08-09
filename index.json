@@ -2,6 +2,14 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
     {
+      "plugin_name": "google-reviews",
+      "version": "1.0.1",
+      "url": "https://github.com/Triple-A-Software/google-reviews-plugin/releases/download/1.0.1/google-reviews-1.0.1.tar.gz",
+      "hash": "sha256:70bd3966f981ced0da235f392d447637f92eb696872506d685296b8f0ddef505",
+      "description": "Show your Google business rating and latest reviews on your site: server-side fetch & cache, moderation, auto-refresh, and AggregateRating rich-result markup.",
+      "published_at": "2026-08-09T18:37:05Z"
+    },
+    {
       "plugin_name": "blog-comments",
       "version": "1.2.0",
       "url": "https://github.com/Triple-A-Software/blogcomment-plugin/releases/download/1.2.0/blog-comments-1.2.0.tar.gz",
