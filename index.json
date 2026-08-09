@@ -2,6 +2,14 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
     {
+      "plugin_name": "media-gallery",
+      "version": "1.0.3",
+      "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/v1.0.3/media-gallery-1.0.3.tar.gz",
+      "hash": "sha256:5abccdfa6804024660531d9add1eb3cf687cff017a6ddb5e979b7aebd3b0ef4c",
+      "description": "Beautiful, fast image galleries built from your media library.",
+      "published_at": "2026-08-09T00:00:00Z"
+    },
+    {
       "plugin_name": "site-health",
       "version": "1.0.1",
       "published_at": "2026-08-07T22:31:46Z",
