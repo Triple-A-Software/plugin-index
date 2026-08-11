@@ -27,6 +27,15 @@
     },
     {
       "plugin_name": "media-gallery",
+      "version": "1.0.4",
+      "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.4/media-gallery-1.0.4.tar.gz",
+      "hash": "sha256:1f54dc971facf4e1986651cc0c2434dacde826dd75abd49fee4176750989ade9",
+      "description": "Beautiful, fast image galleries built from the images already in your Neleto media library — grid, slider, before/after and logo-strip blocks.",
+      "hero_image_url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.4/hero.svg",
+      "published_at": "2026-08-11T16:44:00+02:00"
+    }
+    {
+      "plugin_name": "media-gallery",
       "version": "1.0.3",
       "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.3/media-gallery-1.0.3-1.tar.gz",
       "hash": "sha256:5abccdfa6804024660531d9add1eb3cf687cff017a6ddb5e979b7aebd3b0ef4c",
