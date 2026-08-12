@@ -11,6 +11,14 @@
     },
     {
       "plugin_name": "blog-comments",
+      "version": "1.2.1",
+      "url": "https://github.com/Triple-A-Software/blogcomment-plugin/releases/download/1.2.1/blog-comments-1.2.1.tar.gz",
+      "hash": "sha256:b34e955c5679852d5dea583cc4e1009504905d541a795fcccaea3903326d7a32",
+      "description": "Blog comments with moderation, threaded replies, reactions, email notifications, Akismet and GDPR erasure.",
+      "published_at": "2026-08-12T11:47:26Z"
+    },
+    {
+      "plugin_name": "blog-comments",
       "version": "1.2.0",
       "url": "https://github.com/Triple-A-Software/blogcomment-plugin/releases/download/1.2.0/blog-comments-1.2.0.tar.gz",
       "hash": "sha256:fd8ac27093fdb304f7d8a5e0d5978d761198ded0c4e92847a832884d670c57f3",
