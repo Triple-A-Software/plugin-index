@@ -77,6 +77,14 @@
     },
     {
       "plugin_name": "form-plugin",
+      "version": "3.6.12",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.12/form-plugin-3.6.12.tar.gz",
+      "hash": "sha256:68ebcae9eeee4d93fe8508c2256ceb3465b857d2b3280d327627ad40386666de",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/form-plugin@3.6.12/assets/hero.png",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
+    {
+      "plugin_name": "form-plugin",
       "version": "3.6.11",
       "published_at": "2026-07-28T10:28:00Z",
       "hash": "sha256:3e1dcc57e375acec1020e0a2e87953521084da32d36c2ec2ecebade2d54beaea",
