@@ -281,6 +281,14 @@
     },
     {
       "plugin_name": "cookie-banner",
+      "version": "2.0.4",
+      "url": "https://github.com/Triple-A-Software/cookiebanner-plugin/releases/download/2.0.4/cookie-banner-2.0.4.tar.gz",
+      "hash": "sha256:47f822c803ee3cb028055f013af2ed7a16cfd082082816aa9aafac50585371e5",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/cookiebanner-plugin@3e3dbd2a26dec4f78cadd9ddc69c529fb20f5ee1/assets/hero.png",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
+    {
+      "plugin_name": "cookie-banner",
       "version": "2.0.2",
       "published_at": "2025-10-09T14:05:26Z",
       "hash": "sha256:4d17e78d5126a3dda8a3ac64f31a050f62e0885591d3699e5058bd31cf40e86f",
