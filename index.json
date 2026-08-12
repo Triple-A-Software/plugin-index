@@ -27,6 +27,14 @@
     },
     {
       "plugin_name": "media-gallery",
+      "version": "1.0.5",
+      "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.5/media-gallery-1.0.5.tar.gz",
+      "hash": "sha256:d8d6f154074ae6b8057a5b803f1dd5e0a84136d37895e07fdb475f7afd9d5720",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/mediagallery-plugin@1.0.5/assets/hero.png",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
+    {
+      "plugin_name": "media-gallery",
       "version": "1.0.4",
       "url": "https://github.com/Triple-A-Software/mediagallery-plugin/releases/download/1.0.4/media-gallery-1.0.4.tar.gz",
       "hash": "sha256:1f54dc971facf4e1986651cc0c2434dacde826dd75abd49fee4176750989ade9",
