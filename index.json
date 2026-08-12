@@ -28,6 +28,15 @@
     },
     {
       "plugin_name": "site-search",
+      "version": "1.2.1",
+      "url": "https://github.com/Triple-A-Software/sitesearch-plugin/releases/download/1.2.1/site-search-1.2.1.tar.gz",
+      "hash": "sha256:3c50ec3ecdf76533a0d60581e9fe05fa950f05551f84aab9c87f6a0efd52c793",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/sitesearch-plugin@1.2.1/assets/hero.png",
+      "description": "Full-text site search for Neleto: page + body indexing, results page, autocomplete, typo tolerance, weighting & synonyms.",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
+    {
+      "plugin_name": "site-search",
       "version": "1.2.0",
       "url": "https://github.com/Triple-A-Software/sitesearch-plugin/releases/download/1.2.0/site-search-1.2.0.tar.gz",
       "hash": "sha256:41a3220b1eaa78c02389ac80b9730dcaf8c5ae8d3dcfab4fa8ec8561469a993d",
