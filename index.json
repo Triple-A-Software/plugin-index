@@ -2,6 +2,15 @@
   "$schema": "./plugin_repository_schema.json",
   "plugins": [
      {
+      "plugin_name": "ui-blocks",
+      "version": "1.0.0",
+      "url": "https://github.com/Triple-A-Software/uiblocks-plugin/releases/download/1.0.0/ui-blocks-1.0.0.tar.gz",
+      "hash": "sha256:00f511c59dbb4bb7b54e6813c80a1b3e52a6813852660253217d44d56cbdb3dc",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/uiblocks-plugin@1.0.0/assets/hero.png",
+      "description": "A shadcn-styled block kit for building whole pages — navigation, footer, a nestable Section, hero, feature grids, stats, pricing, FAQ, tabs, accordion and more — with self-contained light/dark theming, assembled right in the editor. No code.",
+      "published_at": "2026-08-25T10:14:40Z"
+     },
+     {
       "plugin_name": "google-reviews",
       "version": "1.0.2",
       "url": "https://github.com/Triple-A-Software/google-reviews-plugin/releases/download/1.0.2/google-reviews-1.0.2.tar.gz",
