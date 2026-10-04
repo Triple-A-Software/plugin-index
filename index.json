@@ -27,6 +27,15 @@
       "description": "Show your Google business rating and latest reviews on your site: server-side fetch & cache, moderation, auto-refresh, and AggregateRating rich-result markup.",
       "published_at": "2026-08-09T18:37:05Z"
     },
+      {
+      "plugin_name": "blog-comments",
+      "version": "1.2.2",
+      "url": "https://github.com/Triple-A-Software/blogcomment-plugin/releases/download/1.2.2/blog-comments-1.2.2.tar.gz",
+      "hash": "sha256:edce63beef8029790f438f8ee114ef1d106cae836984fafc46556ad09b574720",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/blogcomment-plugin@1.2.1/assets/hero.png",
+      "description": "Blog comments with moderation, threaded replies, reactions, email notifications, Akismet and GDPR erasure.",
+      "published_at": "2026-10-04T11:47:26Z"
+    },
     {
       "plugin_name": "blog-comments",
       "version": "1.2.1",
