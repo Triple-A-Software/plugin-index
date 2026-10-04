@@ -44,6 +44,15 @@
       "description": "Blog comments with moderation, threaded replies, reactions, email notifications, Akismet and GDPR erasure.",
       "published_at": "2026-08-09T13:31:38Z"
     },
+     {
+      "plugin_name": "site-search",
+      "version": "1.2.2",
+      "url": "https://github.com/Triple-A-Software/sitesearch-plugin/releases/download/1.2.2/site-search-1.2.2.tar.gz",
+      "hash": "sha256:446327d1f93c89e4ac76634c6d902108a861654177a59617fad8fefeda61ec90",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/sitesearch-plugin@1.2.1/assets/hero.png",
+      "description": "Full-text site search for Neleto: page + body indexing, results page, autocomplete, typo tolerance, weighting & synonyms.",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
     {
       "plugin_name": "site-search",
       "version": "1.2.1",
