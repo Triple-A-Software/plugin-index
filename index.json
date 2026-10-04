@@ -115,6 +115,14 @@
     },
     {
       "plugin_name": "site-health",
+      "version": "1.0.3",
+      "url": "https://github.com/Triple-A-Software/sitehealth-plugin/releases/download/1.0.3/site-health-1.0.3.tar.gz",
+      "hash": "sha256:b494314d7bb6424bb2819a5ed1e5f978e4ee505dddb05ff00be8c5f25af0b122",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/sitehealth-plugin@1.0.2/assets/hero.png",
+      "published_at": "2026-08-12T00:00:00Z"
+    },
+    {
+      "plugin_name": "site-health",
       "version": "1.0.2",
       "url": "https://github.com/Triple-A-Software/sitehealth-plugin/releases/download/1.0.2/site-health-1.0.2.tar.gz",
       "hash": "sha256:b4bfb3b89603d097b0a63dcc4ce8495dc9bbab47593cb406c060d5597ed90959",
