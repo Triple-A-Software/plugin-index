@@ -119,7 +119,7 @@
       "url": "https://github.com/Triple-A-Software/sitehealth-plugin/releases/download/1.0.3/site-health-1.0.3.tar.gz",
       "hash": "sha256:b494314d7bb6424bb2819a5ed1e5f978e4ee505dddb05ff00be8c5f25af0b122",
       "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/sitehealth-plugin@1.0.2/assets/hero.png",
-      "published_at": "2026-08-12T00:00:00Z"
+      "published_at": "2026-10-04T00:00:00Z"
     },
     {
       "plugin_name": "site-health",
@@ -135,6 +135,14 @@
       "published_at": "2026-08-07T22:31:46Z",
       "hash": "sha256:bec24e050798d229b94914027011f9411e02bc0adc51f9551ee501b7738e0f89",
       "url": "https://github.com/Triple-A-Software/sitehealth-plugin/releases/download/1.0.1/site-health-1.0.1.tar.gz"
+    },
+    {
+      "plugin_name": "form-plugin",
+      "version": "3.6.13",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.13/form-plugin-3.6.13.tar.gz",
+      "hash": "sha256:47334d7867771870541b07daf2787eb4dfec13e75e0b1903f1bdfd229b6eb76f",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/form-plugin@3.6.12/assets/hero.png",
+      "published_at": "2026-10-04T00:00:00Z"
     },
     {
       "plugin_name": "form-plugin",
