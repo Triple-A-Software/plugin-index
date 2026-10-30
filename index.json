@@ -138,6 +138,15 @@
     },
     {
       "plugin_name": "form-plugin",
+      "version": "3.7.0",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.7.0/form-plugin-3.7.0.tar.gz",
+      "hash": "sha256:d2c434f24e6e4065ae8c9089aa8f44ad28f7248119eea9e030eaf3d8f2a1593a",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/form-plugin@3.6.12/assets/hero.png",
+      "published_at": "2026-10-30T00:00:00Z",
+      "description": "Changelog: Feature: multiple file uploads up to 20 MB per file, optional ClamAV virus scan, honeypot and rate limiting, error messages shown on the form, global captcha provider (hCaptcha, reCAPTCHA, Turnstile)"
+    },
+    {
+      "plugin_name": "form-plugin",
       "version": "3.6.13",
       "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.6.13/form-plugin-3.6.13.tar.gz",
       "hash": "sha256:47334d7867771870541b07daf2787eb4dfec13e75e0b1903f1bdfd229b6eb76f",
