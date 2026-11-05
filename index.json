@@ -138,6 +138,15 @@
     },
     {
       "plugin_name": "form-plugin",
+      "version": "4.0.0",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/4.0.0/form-plugin-4.0.0.tar.gz",
+      "hash": "sha256:21545c8a6a43dd53ae2618873780c25d029edda964714282da4dc4be2cc78592",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/form-plugin@3.6.12/assets/hero.png",
+      "published_at": "2026-11-05T00:00:00Z",
+      "description": "Changelog: Redesigned admin UI: form editor with live preview and validation, submission search, bulk delete and detail view, email preview, connection tests for ClamAV and CleverReach. Fixes for submissions, emails and CleverReach. Breaking: DELETE /api/submissions now takes { \"ids\": [...] }"
+    },
+    {
+      "plugin_name": "form-plugin",
       "version": "3.7.0",
       "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/3.7.0/form-plugin-3.7.0.tar.gz",
       "hash": "sha256:d2c434f24e6e4065ae8c9089aa8f44ad28f7248119eea9e030eaf3d8f2a1593a",
