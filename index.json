@@ -138,6 +138,15 @@
     },
     {
       "plugin_name": "form-plugin",
+      "version": "4.0.2",
+      "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/4.0.2/form-plugin-4.0.2.tar.gz",
+      "hash": "sha256:e00fc97e4f752afb909cc9bb7342b90487b18ec4f30eeaca69be59f4d4c99a94",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/form-plugin@3.6.12/assets/hero.png",
+      "published_at": "2026-11-19T00:00:00Z",
+      "description": "Build forms in the editor with live preview: file uploads with virus scan, captcha and spam protection, email notifications, CleverReach integration and a searchable submission inbox with export."
+    },
+    {
+      "plugin_name": "form-plugin",
       "version": "4.0.1",
       "url": "https://github.com/Triple-A-Software/form-plugin/releases/download/4.0.1/form-plugin-4.0.1.tar.gz",
       "hash": "sha256:001cecf3b5a4a4da1cdabcdec1bdcffe15f9f87a54864426225ef3aea47a57ba",
