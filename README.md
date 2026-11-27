@@ -15,6 +15,7 @@ Neleto reads [`index.json`](index.json) to discover which plugins and versions a
 | `site-health` | [sitehealth-plugin](https://github.com/Triple-A-Software/sitehealth-plugin) |
 | `form-plugin` | [form-plugin](https://github.com/Triple-A-Software/form-plugin) |
 | `cookie-banner` | [cookiebanner-plugin](https://github.com/Triple-A-Software/cookiebanner-plugin) |
+| `event-registration` | [event-registration](https://github.com/Triple-A-Software/event-registration) |
 
 ## Format
 

@@ -453,6 +453,15 @@
       "published_at": "2026-07-21T11:12:00Z",
       "hash": "sha256:696d6dc524f38fa198285270831da326bc9e10cb69ee7c6c55d301a3ea32abfa",
       "url": "https://github.com/Triple-A-Software/cookiebanner-plugin/releases/download/2.0.3/cookie-banner-2.0.3.tar.gz"
+    },
+    {
+      "plugin_name": "event-registration",
+      "version": "1.0.0",
+      "url": "https://github.com/Triple-A-Software/event-registration/releases/download/1.0.0/event-registration-1.0.0.tar.gz",
+      "hash": "sha256:8372a736a049525e1cec3e8573bfcc90feda67a9726f644ae56d9ad6cbe811d2",
+      "hero_image_url": "https://cdn.jsdelivr.net/gh/Triple-A-Software/event-registration@1.0.0/assets/hero.png",
+      "published_at": "2026-11-27T00:00:00Z",
+      "description": "Registrations for your events: capacity and free spots on the event page, an automatic waitlist, a cancel link in every confirmation mail and CSV export in the admin."
     }
   ]
 }
